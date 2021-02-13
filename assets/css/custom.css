@@ -1,0 +1,103 @@
+.card {
+    background-color: #fafafa;
+}
+.card-anchor {
+    text-decoration: none;
+    color: #212529;
+}
+
+.card-anchor:hover {
+    color: #212529;
+}
+
+.card-title {
+    color: #e62421;
+}
+
+
+.card-anchor >.card:hover {
+    border-color:  #e62421;
+}
+
+
+.card-anchor .card .card-body .card-title:hover {
+    color: #e62421;
+}
+
+.bg-twitter {
+    background-color: #00a2f3;
+}
+
+.color-twitter {
+    color: #00a2f3;
+}
+
+.card img {
+    width: 100%;
+}
+
+.card-body p a {
+    text-decoration: none;
+}
+
+
+h4 { 
+    color: #e62421;
+}
+
+h4 > a, h1 > a {
+    text-decoration: none;
+    color: #e62421;
+}
+
+h4 > a:hover, h1 > a:hover {
+    font-weight: bold;
+    color: #e62421;
+}
+
+#footer {
+    text-align: center;
+}
+
+.tweet-number {
+    font-size: 1.2em;
+    text-align: right;
+    margin-top: -14px;
+    margin-right: -10px;
+    margin-bottom: 3px;
+}
+
+.thread {
+    font-size: 1.2em;
+}
+
+.thread-title-block {
+    margin-left: 13px;    
+}
+
+.thread a {
+    text-decoration: none;
+}
+
+.thread-title {
+    color: #e62421;
+}
+
+.nav-threads {
+    color: #e62421;
+    font-size: 1.25em;
+    font-weight: bold;
+}
+
+.nav-threads a {
+    text-decoration: none;
+    color: #e62421;
+}
+
+.thread-next {
+    text-align: right;
+}
+
+.card-body img {
+    border-radius: 20px;
+}
